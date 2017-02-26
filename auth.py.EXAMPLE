@@ -1,0 +1,11 @@
+#! /usr/bin/env python3
+
+TWITTER_CONSUMER_KEY = "Your twitter consumer key"
+TWITTER_CONSUMER_SECRET = "your twitter consumer secret"
+TWITTER_ACCESS_TOKEN_KEY = "Access token key for twitter"
+TWITTER_ACCESS_TOKEN_SECRET = "Token secret."
+
+SPOTIPY_USER = "Spotify username"
+SPOTIPY_CLIENT_ID = "Spotify client id"
+SPOTIPY_CLIENT_SECRET = "You guessed it - spotify client secret"
+SPOTIPY_REDIRECT = "http://localhost"
